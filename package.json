@@ -35,7 +35,7 @@
     "@nuxt/kit": "^3.6.5",
     "browserslist-to-esbuild": "^1.2.0",
     "polyfill-library": "^4.8.0",
-    "polyfillist": "https://github.com/trijpstra-fourlights/polyfillist#fix/build-and-use-cloudflare",
+    "polyfillist": "https://github.com/trijpstra-fourlights/polyfillist#fix%2Fbuild-and-use-cloudflare",
     "ufo": "^1.2.0"
   },
   "devDependencies": {
